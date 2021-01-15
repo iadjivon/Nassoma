@@ -6,7 +6,6 @@ import React from 'react'
     </h1>
 
     <p>
-        Is there any other way to display this information?
-        a need for a backend maybe?
+        Learning about wordpress. not much progress 
     </p>
 </div>
