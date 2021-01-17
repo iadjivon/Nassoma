@@ -20,32 +20,60 @@ Accompanying colors
     - White  
     - variations of orange and green 
 
+## Specific Pages Requested 
 
-## HomePage 
-The landing page can follow these examples.
+- Main page 
+    - count of projects 
+    - number of people impacted 
+    - donate 
+
+- About us page 
+    - about the organization 
+    - about team 
+    
+- Projects Page
+    - on hover: has each project 
+    - each project has its own page 
+
+- Get Involved page 
+    - donate
+    -  volunteer 
+
+- Contact 
+
+- Set up a store
+
+- Others...  
+
+        Plugins: Language switch between Portuguese and English
+
+
+
+<hr>
+
+ 
+
+## Main Page  
+The Main page can follow these examples.
 
 ### `Text on the homepage`
-"Stories inspire everything we do" <br>
-"What's your story?"
 
 ### `images on the homepage`
 
-<hr>
+
 
 ## About Page 
 The about page can follow these examples. 
 
 
-## Our stories Page 
-The our stories page can follow these examples. 
-
-
 ## Projects Page 
 The projects page can follow these examples. 
 
-## Meet the teams page 
+## Get Involved page 
 The teams page can follow these examples. 
 
 ## Contact Page
 The contact page can follow these examples.  
 
+## Shop Page
+The shop page can follow these examples.  
