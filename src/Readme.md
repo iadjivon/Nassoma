@@ -60,28 +60,39 @@ The Main page can follow these examples.
 
 ### `images on the homepage`
 
-
+<hr>
 
 ## About Page 
 The about page can follow these examples. 
 
      Links go here
+
+<hr>
+
 ## Projects Page 
 The projects page can follow these examples. 
     
     Links go here
+
+<hr>
 
 ## Get Involved page 
 The get involved page can follow these examples. 
 
     Links go here
 
+<hr>
+
 ## Contact Page
 The contact page can follow these examples.  
 
     Links go here
 
+<hr>
 ## Shop Page
 The shop page can follow these examples.  
 
     Links go here
+
+<hr>
+
