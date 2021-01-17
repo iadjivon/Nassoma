@@ -65,15 +65,23 @@ The Main page can follow these examples.
 ## About Page 
 The about page can follow these examples. 
 
-
+     Links go here
 ## Projects Page 
 The projects page can follow these examples. 
+    
+    Links go here
 
 ## Get Involved page 
-The teams page can follow these examples. 
+The get involved page can follow these examples. 
+
+    Links go here
 
 ## Contact Page
 The contact page can follow these examples.  
 
+    Links go here
+
 ## Shop Page
 The shop page can follow these examples.  
+
+    Links go here
