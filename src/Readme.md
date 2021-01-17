@@ -12,14 +12,13 @@ Nassoma's is a nonprofit organization that work for and with children. Their foc
 ## Color Scheme 
 Main colors
 
-    - Orange (add actual color)
-    - White 
-    - Red 
+    - Green (add actual color)
+    - Orange 
 
 Accompanying colors
     
-    - Teal 
-    - Yellow 
+    - White  
+    - variations of orange and green 
 
 
 ## HomePage 
