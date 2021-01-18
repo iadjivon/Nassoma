@@ -61,6 +61,8 @@ The Main page can follow these examples.
 
 ### `images on the homepage`
 
+     Links go here
+
 <hr>
 
 ## About Page 
@@ -94,7 +96,7 @@ The contact page can follow these examples.
 ## Shop Page
 The shop page can follow these examples. 
 
-The shop page will use Woo commerce. 
+The shop page will use Woo-commerce. 
 
 
     Links go here
