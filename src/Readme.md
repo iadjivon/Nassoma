@@ -107,5 +107,5 @@ The shop page will use Woo-commerce.
 
 Wordpress requires that I use the PHP. <br>
 I need to chose between a couple of stacks to download a PHP package for editing. <br>
-
+The next step is to design the templates. Use a software to design them.
 
