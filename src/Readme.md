@@ -45,7 +45,8 @@ Accompanying colors
 
 - Others...  
 
-        Plugins: Language switch between Portuguese and English
+        Plugins: Language switch between Portuguese 
+        and English
 
 
 
@@ -89,8 +90,12 @@ The contact page can follow these examples.
     Links go here
 
 <hr>
+
 ## Shop Page
-The shop page can follow these examples.  
+The shop page can follow these examples. 
+
+The shop page will use Woo commerce. 
+
 
     Links go here
 
