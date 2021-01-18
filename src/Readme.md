@@ -12,7 +12,7 @@ Nassoma's is a nonprofit organization that work for and with children. Their foc
 ## Color Scheme 
 Main colors
 
-    - Green (add actual color)
+    - Green (add hex code)
     - Orange 
 
 Accompanying colors
