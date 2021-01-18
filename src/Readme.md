@@ -103,3 +103,9 @@ The shop page will use Woo-commerce.
 
 <hr>
 
+## Resources 
+
+Wordpress requires that I use the PHP. <br>
+I need to chose between a couple of stacks to download a PHP package for editing. <br>
+
+
