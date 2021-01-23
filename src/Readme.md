@@ -82,7 +82,9 @@ The projects page can follow these examples.
 ## Get Involved page 
 The get involved page can follow these examples. 
 
-    Links go here
+     https://www.wateraid.org/ca/ 
+       
+    https://www.wateraid.org/ca/donate
 
 <hr>
 
