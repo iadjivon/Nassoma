@@ -68,7 +68,7 @@ The Main page can follow these examples.
 ## About Page 
 The about page can follow these examples. 
 
-     Links go here
+     https://girlswhocode.com/about-us
 
 <hr>
 
