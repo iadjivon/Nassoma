@@ -75,7 +75,7 @@ The about page can follow these examples.
 ## Projects Page 
 The projects page can follow these examples. 
     
-    Links go here
+    Add link here 
 
 <hr>
 
